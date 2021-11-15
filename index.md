@@ -24,23 +24,24 @@ Supported arguments:
 
 ## Education
 
-### **EIT Digital Master School** `September 2020 - June 2022`
+### **Royal Institute of Technology (KTH)** `September 2021 - June 2022`
+
+```
+Stockholm, Sweden
+```
 
 - Major: Autonomous System
-- First year: Aalto University
-  - GPA: 4.31/5
-  - Find my interest in deep learning
-- Second year: Royal Institute of Technology (KTH)
-  - Find my interest in embedded system
+- Second year of EIT Digital Master School
   
-### **EIT Digital Master School** `September 2020 - June 2022`
+### **Aalto University** `September 2020 - June 2021`
+
+```
+Helsinki, Finland
+```
 
 - Major: Autonomous System
-- First year: Aalto University
-  - GPA: 4.31/5
-  - Find my interest in deep learning
-- Second year: Royal Institute of Technology (KTH)
-  - Find my interest in embedded system
+- First year of EIT Digital Master School
+- GPA: 4.31/5
 
 ### **Huazhong University of Science and Technology (HUST)** `September 2016 - June 2020`
 
@@ -48,25 +49,41 @@ Supported arguments:
 Wuhan, China
 ```
 
-- Major: Electronic Science and Technology
+- Major: Electronics
 - GPA: 3.82/4
-- CGPA: 86.0/100
 
 ## Experience
 
 ### **Data, Visualization and Connectivity for Healthcare** _Summer School_ `25 July 2021 - 7 August 2021`
 
+```
+Coventry University
+```
+
+- tbd
+
+### **Intelligent Medical Infusion Monitoring System** _Degree Project_ `January 2020 - July 2020`
+
+```
+Huazhong University of Science and Technology
+```
+
+- tbd
+
+### **Data Storage and Application Lab** _Intern_ `July 2019`
+
+```
+Huazhong University of Science and Technology
+```
+
 - Learned some relevant knowledge of solid state storage, cloud computing and virtualization
 - Completed a project of Docker container migration based on CRIU
 
-### Degree Project 
+### **AI & Big Data Analysis Programme** _Short-term Study_ `21 January 2019 - 28 January 2019`
 
-### **Data Storage and Application Lab at HUST** _Intern_ `July 2019`
-
-- Learned some relevant knowledge of solid state storage, cloud computing and virtualization
-- Completed a project of Docker container migration based on CRIU
-
-### **AI & Big Data Analysis Programme at NUS** _Short-term Study_ `21 January 2019 - 28 January 2019`
+```
+National University of Singapore
+```
 
 - Learned some basic knowledge of machine learning and robotics
 - Learned R Language and put it into practice
