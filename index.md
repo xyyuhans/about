@@ -6,11 +6,14 @@ email:
   text: xyyuhans@hotmail.com
 homepage:
   url: https://github.com/xyyuhans
-  text: github.com/xyyuhans
+  text: Github
+website:
+  url: https://www.linkedin.com/in/xinyu-yu-7a85b71b7/
+  text: Linkedin
 phone: +46 769785095
 ---
 
-# Xinyu **Yu**
+# **Xinyu Yu**
 
 <!--
 include contact information from the front matter
@@ -22,16 +25,19 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
+I am a second year master student majoring in Autonomous Systems at KTH. I am looking for a master thesis in the field of embedded systems. I have a good background in embedded systems from my bachelor and master study, and would like to learn the industrial design of embedded systems.
+
 ## Education
 
-### **Royal Institute of Technology (KTH)** `September 2021 - June 2022`
+### **KTH Royal Institute of Technology** `September 2021 - June 2022`
 
 ```
 Stockholm, Sweden
 ```
 
-- Major: Autonomous System
-- Second year of EIT Digital Master School
+- Second year of EIT Digital Master School majoring in Autonomous System
+- Grade A in the course Embedded Systems
+- Currently studying in AI and machine learning 
   
 ### **Aalto University** `September 2020 - June 2021`
 
@@ -39,18 +45,19 @@ Stockholm, Sweden
 Helsinki, Finland
 ```
 
-- Major: Autonomous System
-- First year of EIT Digital Master School
+- First year of EIT Digital Master School majoring in Autonomous System
 - GPA: 4.31/5
+- Emphasis on deep learning
 
-### **Huazhong University of Science and Technology (HUST)** `September 2016 - June 2020`
+### **Huazhong University of Science and Technology** `September 2016 - June 2020`
 
 ```
 Wuhan, China
 ```
 
-- Major: Electronics
+- Bachelor student majoring in Electronics
 - GPA: 3.82/4
+- Focus on embedded system
 
 ## Experience
 
@@ -60,15 +67,17 @@ Wuhan, China
 Coventry University
 ```
 
-- tbd
+- Learned some pains of current healthcare system
+- Pitch a business idea about healthcare robots
 
-### **Intelligent Medical Infusion Monitoring System** _Degree Project_ `January 2020 - July 2020`
+### **Medical Infusion Monitoring System based on STM32** _Degree Project_ `January 2020 - July 2020`
 
 ```
 Huazhong University of Science and Technology
 ```
 
-- tbd
+- Developed a simple medical infusion monitoring system based on STM32
+- Learned how to do a practical embedded system design
 
 ### **Data Storage and Application Lab** _Intern_ `July 2019`
 
@@ -76,8 +85,8 @@ Huazhong University of Science and Technology
 Huazhong University of Science and Technology
 ```
 
-- Learned some relevant knowledge of solid state storage, cloud computing and virtualization
-- Completed a project of Docker container migration based on CRIU
+- Learned some knowledge of solid state storage, cloud computing and virtualization
+- Completed a project about Docker container migration based on CRIU
 
 ### **AI & Big Data Analysis Programme** _Short-term Study_ `21 January 2019 - 28 January 2019`
 
@@ -85,7 +94,7 @@ Huazhong University of Science and Technology
 National University of Singapore
 ```
 
-- Learned some basic knowledge of machine learning and robotics
+- Learned some knowledge of machine learning and robotics
 - Learned R Language and put it into practice
 
 <!-- ### Footer

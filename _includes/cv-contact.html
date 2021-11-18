@@ -1,8 +1,13 @@
 <div id="contact-info">
 
     {% if page.homepage %}
-    <i class="fi-home" style="margin-left:1em"></i>
+    <i class="fi-social-github" style="margin-left:1em"></i>
     <a href="{{ page.homepage.url }}" style="margin-left:0.5em"> {{ page.homepage.text }}</a>
+    {% endif %}
+
+    {% if page.website %}
+    <i class="fi-social-linkedin" style="margin-left:1em"></i>
+    <a href="{{ page.website.url }}" style="margin-left:0.5em"> {{ page.website.text }}</a>
     {% endif %}
 
     {% if page.email %}
