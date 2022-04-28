@@ -25,7 +25,7 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-I am a second-year master student at KTH majoring in Autonomous Systems, and looking for a job in data analysis. I have a good background in machine learning, and am currently working on the master thesis in data science at Ericsson.
+I am a second-year master student at KTH majoring in Autonomous Systems, and looking for a job in data analysis. I have a good background in machine learning, and am currently working on my master thesis in data science at Ericsson.
 
 ## Education
 
@@ -37,7 +37,7 @@ Stockholm, Sweden
 
 - Second year of EIT Digital Master School majoring in Autonomous System
 - Get A grades in computer science courses
-- Currently working on master thesis in data science at Ericsson
+- Currently working on my master thesis in data science at Ericsson
   
 ### **Aalto University** `September 2020 - June 2021`
 
@@ -77,7 +77,7 @@ Ericsson, Stockholm
 Coventry University
 ```
 
-- Learn some pains of current healthcare system
+- Learn some pains of the current healthcare system
 - Pitch a business idea about healthcare robots
 
 ### **Medical Infusion Monitoring System based on STM32** _Degree Project_ `January 2020 - July 2020`
@@ -95,8 +95,8 @@ Huazhong University of Science and Technology
 Huazhong University of Science and Technology
 ```
 
-- Learn some knowledge of solid state storage, cloud computing and virtualization
-- Complet a project about Docker container migration based on CRIU (Checkpoint/Restore In Userspace)
+- Learn some knowledge of solid state storage, cloud computing, and virtualization
+- Complete a project about Docker container migration based on CRIU (Checkpoint/Restore In Userspace)
 
 <!-- ### Footer
 
