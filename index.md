@@ -86,8 +86,7 @@ Coventry University
 Huazhong University of Science and Technology
 ```
 
-- Develop a simple medical infusion monitoring system based on STM32
-- Learn how to do a practical embedded system design
+- Design a simple medical infusion monitoring system based on STM32
 
 ### **Data Storage and Application Lab** _Intern_ `July 2019`
 
@@ -95,7 +94,6 @@ Huazhong University of Science and Technology
 Huazhong University of Science and Technology
 ```
 
-- Learn some knowledge of solid state storage, cloud computing, and virtualization
 - Complete a project about Docker container migration based on CRIU (Checkpoint/Restore In Userspace)
 
 <!-- ### Footer
