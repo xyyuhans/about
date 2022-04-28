@@ -37,7 +37,7 @@ Stockholm, Sweden
 
 - Second year of EIT Digital Master School majoring in Autonomous System
 - Get A grades in computer science courses
-- Currently working on my master thesis in data science at Ericsson
+- Currently work on my master thesis in data science at Ericsson
   
 ### **Aalto University** `September 2020 - June 2021`
 
@@ -57,7 +57,7 @@ Wuhan, China
 
 - Bachelor student majoring in Electronics
 - GPA: 3.82/4
-- Studied in RF (radio frequency)
+- Interested in RF (radio frequency) and embedded systems
 
 ## Experience
 
