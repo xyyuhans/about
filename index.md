@@ -67,7 +67,7 @@ Wuhan, China
 Ericsson, Stockholm
 ```
 
-- Work as a data analyst in the BNEW DNEW CDS SYS IS Interconnect & Sync team (supervised by [Mikael Johansson](https://www.linkedin.com/in/mikael-johansson-a6b4915/))
+- Intern as a data analyst in the BNEW DNEW CDS SYS IS Interconnect & Sync team (supervised by [Mikael Johansson](https://www.linkedin.com/in/mikael-johansson-a6b4915/))
 - Use machine learning to find faulty synchronization sources in RAN (radio access network)
 - Visualize network synchronization in RAN domain and transport domain
 
