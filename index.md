@@ -25,7 +25,7 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-I am a second-year master's student at KTH majoring in Autonomous Systems. I have a strong background in machine learning from my master's degree and am currently working on my master's thesis in data science at Ericsson. My master's thesis work has increased my interest in data science, and I'm looking for work in data analysis.
+I am a second-year master student at KTH majoring in Autonomous Systems, and I am looking for a job in data engineering. I have a good background in machine learning, and I am currently working on the master thesis in data science at Ericsson.
 
 ## Education
 
@@ -36,8 +36,8 @@ Stockholm, Sweden
 ```
 
 - Second year of EIT Digital Master School majoring in Autonomous System
-- Get A grades in programming courses
-- Currently doing my master thesis in data science at Ericsson
+- Get A grades in computer science courses
+- Currently working on master thesis in data science at Ericsson
   
 ### **Aalto University** `September 2020 - June 2021`
 
@@ -47,7 +47,7 @@ Helsinki, Finland
 
 - First year of EIT Digital Master School majoring in Autonomous System
 - GPA: 4.31/5
-- Emphasis on deep learning
+- Interested in deep learning
 
 ### **Huazhong University of Science and Technology** `September 2016 - June 2020`
 
@@ -57,7 +57,7 @@ Wuhan, China
 
 - Bachelor student majoring in Electronics
 - GPA: 3.82/4
-- Focus on embedded system
+- Interested in RF (radio frequency)
 
 ## Experience
 
@@ -67,8 +67,9 @@ Wuhan, China
 Ericsson
 ```
 
+- Work as a data analyst in the BNEW DNEW CDS SYS IS Interconnect & Sync team (supervised by Mikael Johansson)
 - Use machine learning to find faulty synchronization sources in RAN (radio access network)
-- Visualized network synchronization by 
+- Visualize network synchronization in RAN domain and transport domain
 
 ### **Data, Visualization and Connectivity for Healthcare** _Summer School_ `25 July 2021 - 7 August 2021`
 
