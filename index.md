@@ -61,7 +61,7 @@ Wuhan, China
 
 ## Experience
 
-### **Automatic configuration and fault detection of the network synchronization system** _Master Thesis_ `January 2022 - Now`
+### **Fault detection of network synchronization system** _Master Thesis_ `January 2022 - Now`
 
 ```
 Ericsson, Stockholm
