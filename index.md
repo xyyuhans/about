@@ -49,7 +49,7 @@ Helsinki, Finland
 - GPA: 4.31/5
 - Interested in deep learning
 
-### **Huazhong University of Science and Technology** `September 2016 - June 2020`
+### **Huazhong University of Science and Technology (HUST)** `September 2016 - June 2020`
 
 ```
 Wuhan, China
@@ -80,10 +80,10 @@ Coventry University
 - Learn some pains of the current healthcare system
 - Pitch a business idea about healthcare robots
 
-### **Medical Infusion Monitoring System based on STM32** _Degree Project_ `January 2020 - July 2020`
+### **Medical Infusion Monitoring System based on STM32** _Bachelor Degree Project_ `January 2020 - July 2020`
 
 ```
-Huazhong University of Science and Technology
+HUST
 ```
 
 - Design a simple medical infusion monitoring system based on STM32
@@ -91,7 +91,7 @@ Huazhong University of Science and Technology
 ### **Data Storage and Application Lab** _Intern_ `July 2019`
 
 ```
-Huazhong University of Science and Technology
+HUST
 ```
 
 - Complete a project about Docker container migration based on CRIU (Checkpoint/Restore In Userspace)
