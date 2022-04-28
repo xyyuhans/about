@@ -25,7 +25,7 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-I am a second-year master student at KTH majoring in Autonomous Systems, and I am looking for a job in data analysis. I have a good background in machine learning, and I am currently working on the master thesis in data science at Ericsson.
+I am a second-year master student at KTH majoring in Autonomous Systems, and looking for a job in data analysis. I have a good background in machine learning, and am currently working on the master thesis in data science at Ericsson.
 
 ## Education
 
