@@ -98,7 +98,8 @@ Huazhong University of Science and Technology
 - Learn some knowledge of solid state storage, cloud computing and virtualization
 - Complet a project about Docker container migration based on CRIU (Checkpoint/Restore In Userspace)
 
-<!--
+<!-- ### Footer
+
 ### **AI & Big Data Analysis Programme** _Short-term Study_ `21 January 2019 - 28 January 2019`
 
 ```
@@ -107,7 +108,5 @@ National University of Singapore
 
 - Learn some knowledge of machine learning and robotics
 - Learn R Language and put it into practice
--->
-<!-- ### Footer
 
 Last updated: May 2013 -->
