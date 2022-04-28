@@ -25,7 +25,7 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-I am a second year master student majoring in Autonomous Systems at KTH. I am looking for a master thesis in the field of embedded systems. I have a good background in embedded systems from my bachelor and master study, and would like to learn the industrial design of embedded systems.
+I am a second year master student majoring in Autonomous Systems at KTH. I am doing my master thesis in data science at Ericsson, and aim at becoming a data scientist.
 
 ## Education
 
@@ -36,8 +36,8 @@ Stockholm, Sweden
 ```
 
 - Second year of EIT Digital Master School majoring in Autonomous System
-- Grade A in the course Embedded Systems
-- Currently studying in AI and machine learning 
+- Get A grades in programming courses
+- Currently doing my master thesis in data science at Ericsson
   
 ### **Aalto University** `September 2020 - June 2021`
 
@@ -61,13 +61,22 @@ Wuhan, China
 
 ## Experience
 
+### **Automatic configuration and fault detection of the network synchronization system** _Master Thesis_ `January 2022`
+
+```
+Ericsson
+```
+
+- Use machine learning to find faulty synchronization sources in RAN (radio access network)
+- Visualized network synchronization by 
+
 ### **Data, Visualization and Connectivity for Healthcare** _Summer School_ `25 July 2021 - 7 August 2021`
 
 ```
 Coventry University
 ```
 
-- Learned some pains of current healthcare system
+- Learn some pains of current healthcare system
 - Pitch a business idea about healthcare robots
 
 ### **Medical Infusion Monitoring System based on STM32** _Degree Project_ `January 2020 - July 2020`
@@ -76,8 +85,8 @@ Coventry University
 Huazhong University of Science and Technology
 ```
 
-- Developed a simple medical infusion monitoring system based on STM32
-- Learned how to do a practical embedded system design
+- Develop a simple medical infusion monitoring system based on STM32
+- Learn how to do a practical embedded system design
 
 ### **Data Storage and Application Lab** _Intern_ `July 2019`
 
@@ -85,8 +94,8 @@ Huazhong University of Science and Technology
 Huazhong University of Science and Technology
 ```
 
-- Learned some knowledge of solid state storage, cloud computing and virtualization
-- Completed a project about Docker container migration based on CRIU
+- Learn some knowledge of solid state storage, cloud computing and virtualization
+- Complet a project about Docker container migration based on CRIU (Checkpoint/Restore In Userspace)
 
 ### **AI & Big Data Analysis Programme** _Short-term Study_ `21 January 2019 - 28 January 2019`
 
@@ -94,8 +103,8 @@ Huazhong University of Science and Technology
 National University of Singapore
 ```
 
-- Learned some knowledge of machine learning and robotics
-- Learned R Language and put it into practice
+- Learn some knowledge of machine learning and robotics
+- Learn R Language and put it into practice
 
 <!-- ### Footer
 
