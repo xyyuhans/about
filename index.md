@@ -70,7 +70,7 @@ Wuhan, China
 - GPA: 3.82/4
 - Interested in RF (radio frequency) and embedded systems
 
-## Course projects
+## Knowledge
 
 ### **Machine Learning**
 
@@ -78,13 +78,13 @@ Fine-tune BERT models for semantic search in Scalable Machine Learning and Deep 
 
 Deploy image classification models on edge with partner in Research Methodology and Scientific Writing
 
-Hands-on experience of RNN, Transformer, GNN, Autoencoder, and GAN in Deep Learning D
+Learn CNN, RNN, Transformer, GNN, Autoencoder, and GAN in Deep Learning D
 
 ### **Programming**
 
-Hands-on experience of algorithm including Alpha–beta pruning, Hidden Markov Model, and Reinforcement Learning in Artificial Intelligence
+Learn algorithms including Alpha–beta pruning, Hidden Markov Model, and Reinforcement Learning in Artificial Intelligence
 
-Real-Time Software Development by Ada programming language in Embedded Systems
+Design simple Real-Time Operating Systems by Ada and C in Embedded Systems
 
 <!-- ### Footer
 
