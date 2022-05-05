@@ -71,18 +71,15 @@ Wuhan, China
 
 ### **Machine Learning**
 
-Fine-tune BERT models for semantic search in Scalable Machine Learning and Deep Learning
-
-Deploy image classification models on edge with partner in Research Methodology and Scientific Writing
-
-Learn CNN, RNN, Transformer, GNN, Autoencoder, and GAN in Deep Learning D
+- Fine-tune BERT models for semantic search
+- Deploy image classification models on edge with partner
+- Learn CNN, RNN, Transformer, GNN, Autoencoder, and GAN
 
 ### **Programming**
 
-Learn algorithms using Python including Alpha–beta pruning, Hidden Markov Model, and Reinforcement Learning in Artificial Intelligence
-
-Design simple Real-Time Operating Systems by Ada and C in Embedded Systems
-
+- Learn algorithms using Python including Alpha–beta pruning, Hidden Markov Model, and Reinforcement Learning
+- Design simple Real-Time Operating Systems by Ada and C
+- 
 <!-- ### Footer
 
 Last updated: May 2013 -->
