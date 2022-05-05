@@ -72,11 +72,19 @@ Wuhan, China
 
 ## Course projects
 
+### Machine Learning
+
 Fine-tune BERT models for semantic search in Scalable Machine Learning and Deep Learning
 
 Deploy image classification models on edge with partner in Research Methodology and Scientific Writing
 
-Hands-on experience of CNN, RNN, Transformer, GNN, Autoencoder, and GAN in Deep Learning D
+Hands-on experience of RNN, Transformer, GNN, Autoencoder, and GAN in Deep Learning D
+
+### Programming
+
+Hands-on experience of algorithm including Alpha–beta pruning, Hidden Markov Model, and Reinforcement Learning in Artificial Intelligence
+
+Real-Time Software Development by Ada programming language in Embedded Systems
 
 <!-- ### Footer
 
