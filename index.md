@@ -48,7 +48,6 @@ Stockholm, Sweden
 
 - Second year of EIT Digital Master School majoring in Autonomous System
 - Get A grades in computer science courses
-- Interested in coding
   
 ### **Aalto University** `September 2020 - June 2021`
 
@@ -58,7 +57,6 @@ Helsinki, Finland
 
 - First year of EIT Digital Master School majoring in Autonomous System
 - GPA: 4.31/5
-- Interested in deep learning
 
 ### **Huazhong University of Science and Technology (HUST)** `September 2016 - June 2020`
 
@@ -68,7 +66,6 @@ Wuhan, China
 
 - Bachelor student majoring in Electronics
 - GPA: 3.82/4
-- Interested in RF and embedded systems
 
 ## Knowledge
 
