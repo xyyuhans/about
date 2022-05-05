@@ -59,50 +59,19 @@ Wuhan, China
 - GPA: 3.82/4
 - Interested in RF (radio frequency) and embedded systems
 
-## Experience
+## Projects
 
-### **Fault detection of network synchronization system** _Master Thesis_ `January 2022 - Now`
+### **Fault detection of network synchronization system** _Master Thesis_
 
-```
-Ericsson, Stockholm
-```
+- Intern as a data analyst at Ericsson
+- Use machine learning to find faulty synchronization sources in RAN (radio access network)
+- Visualize network synchronization in RAN domain and transport domain
+
+### **Fault detection of network synchronization system** _Master Thesis_ 
 
 - Intern as a data analyst in the BNEW DNEW CDS SYS IS Interconnect & Sync team
 - Use machine learning to find faulty synchronization sources in RAN (radio access network)
 - Visualize network synchronization in RAN domain and transport domain
-
-### **Data, Visualization and Connectivity for Healthcare** _Summer School_ `25 July 2021 - 7 August 2021`
-
-```
-Coventry University
-```
-
-- Learn some pains of the current healthcare system
-- Pitch a business idea about healthcare robots
-
-### **Medical Infusion Monitoring System based on STM32** _Bachelor Degree Project_ `January 2020 - July 2020`
-
-```
-HUST
-```
-
-- Design a simple medical infusion monitoring system based on STM32
-
-### **Data Storage and Application Lab** _Intern_ `July 2019`
-
-```
-HUST
-```
-
-- Complete a project about Docker container migration based on CRIU (Checkpoint/Restore In Userspace)
-
-### **AI & Big Data Analysis Programme** _Short-term Study_ `21 January 2019 - 28 January 2019`
-
-```
-National University of Singapore
-```
-
-- Learn some knowledge about machine learning and robotics
 
 <!-- ### Footer
 
