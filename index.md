@@ -37,7 +37,7 @@ Stockholm, Sweden
 ```
 
 - Automatic configuration and fault detection of the network synchronization system
-- Use machine learning to find faulty synchronization sources in RAN (radio access network)
+- Use machine learning to find faulty synchronization sources in RAN
 - Visualize network synchronization in RAN domain and transport domain
 
 ### **KTH Royal Institute of Technology** `September 2021 - June 2022`
@@ -68,7 +68,7 @@ Wuhan, China
 
 - Bachelor student majoring in Electronics
 - GPA: 3.82/4
-- Interested in RF (radio frequency) and embedded systems
+- Interested in RF and embedded systems
 
 ## Knowledge
 
