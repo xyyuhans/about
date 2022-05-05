@@ -70,9 +70,11 @@ Wuhan, China
 - GPA: 3.82/4
 - Interested in RF (radio frequency) and embedded systems
 
-## Projects
+## Course projects
 
-Fine-tune BERT models for semantic search
+Fine-tune BERT models for semantic search in Scalable Machine Learning and Deep Learning
+Deploy image classification models on edge with partner in Research Methodology and Scientific Writing
+Hands-on experience of CNN, RNN, Transformer, GNN, Autoencoder, and GAN in Deep Learning D
 
 <!-- ### Footer
 
