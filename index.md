@@ -36,7 +36,7 @@ I am a second-year master student at KTH majoring in Autonomous Systems, and loo
 Stockholm, Sweden
 ```
 
-- Master thesis: Automatic configuration and fault detection of the network synchronization system
+- Automatic configuration and fault detection of the network synchronization system
 - Use machine learning to find faulty synchronization sources in RAN (radio access network)
 - Visualize network synchronization in RAN domain and transport domain
 
