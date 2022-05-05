@@ -79,7 +79,7 @@ Wuhan, China
 
 - Learn algorithms using Python including Alpha–beta pruning, Hidden Markov Model, and Reinforcement Learning
 - Design simple Real-Time Operating Systems by Ada and C
-- 
+
 <!-- ### Footer
 
 Last updated: May 2013 -->
