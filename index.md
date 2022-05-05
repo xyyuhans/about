@@ -48,7 +48,7 @@ Stockholm, Sweden
 
 - Second year of EIT Digital Master School majoring in Autonomous System
 - Get A grades in computer science courses
-- Currently work on my master thesis in data science at Ericsson
+- Interested in coding
   
 ### **Aalto University** `September 2020 - June 2021`
 
@@ -73,7 +73,9 @@ Wuhan, China
 ## Course projects
 
 Fine-tune BERT models for semantic search in Scalable Machine Learning and Deep Learning
+
 Deploy image classification models on edge with partner in Research Methodology and Scientific Writing
+
 Hands-on experience of CNN, RNN, Transformer, GNN, Autoencoder, and GAN in Deep Learning D
 
 <!-- ### Footer
