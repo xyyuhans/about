@@ -67,18 +67,17 @@ Wuhan, China
 - Bachelor student majoring in Electronics
 - GPA: 3.82/4
 
-## Knowledge
-
-### **Machine Learning**
+## Course Projects
 
 - Fine-tune BERT models for semantic search
 - Deploy image classification models on edge with partner
-- Learn CNN, RNN, Transformer, GNN, Autoencoder, and GAN
-
-### **Programming**
-
-- Learn algorithms using Python including Alpha–beta pruning, Hidden Markov Model, and Reinforcement Learning
 - Design simple Real-Time Operating Systems by Ada and C
+
+## Skills
+
+- Machine learning: Sklearn, Spark
+- Deep learning: CNN, RNN, Transformer, GNN, Autoencoder, GAN
+- Algorithm: Minimax, HMM, RL
 
 <!-- ### Footer
 
