@@ -27,7 +27,18 @@ Supported arguments:
 
 I am a second-year master student at KTH majoring in Autonomous Systems, and looking for a job in data analysis. I have a good background in machine learning, and am currently working on my master thesis in data science at Ericsson.
 
-## Education
+## Experience
+
+
+### **Master Thesis at Ericsson** `January 2022 - Now`
+
+```
+Stockholm, Sweden
+```
+
+- Master thesis: Automatic configuration and fault detection of the network synchronization system
+- Use machine learning to find faulty synchronization sources in RAN (radio access network)
+- Visualize network synchronization in RAN domain and transport domain
 
 ### **KTH Royal Institute of Technology** `September 2021 - June 2022`
 
@@ -61,17 +72,7 @@ Wuhan, China
 
 ## Projects
 
-### **Fault detection of network synchronization system** _Master Thesis_
-
-- Intern as a data analyst at Ericsson
-- Use machine learning to find faulty synchronization sources in RAN (radio access network)
-- Visualize network synchronization in RAN domain and transport domain
-
-### **Fault detection of network synchronization system** _Master Thesis_ 
-
-- Intern as a data analyst in the BNEW DNEW CDS SYS IS Interconnect & Sync team
-- Use machine learning to find faulty synchronization sources in RAN (radio access network)
-- Visualize network synchronization in RAN domain and transport domain
+Fine-tune BERT models for semantic search
 
 <!-- ### Footer
 
