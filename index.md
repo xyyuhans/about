@@ -82,7 +82,7 @@ Learn CNN, RNN, Transformer, GNN, Autoencoder, and GAN in Deep Learning D
 
 ### **Programming**
 
-Learn algorithms including Alpha–beta pruning, Hidden Markov Model, and Reinforcement Learning in Artificial Intelligence
+Learn algorithms using Python including Alpha–beta pruning, Hidden Markov Model, and Reinforcement Learning in Artificial Intelligence
 
 Design simple Real-Time Operating Systems by Ada and C in Embedded Systems
 
