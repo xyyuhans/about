@@ -35,9 +35,9 @@ I am a second-year master student at KTH majoring in Autonomous Systems, and loo
 Stockholm, Sweden
 ```
 
-- Second year of European Institute of Technology (EIT) Digital Master School majoring in Autonomous System
+- Second year of EIT Digital Master School majoring in Autonomous System
 - Get A grades in computer science courses
-- Machine learning, embedded system
+- Interested in machine learning, embedded system
   
 ### **Aalto University** `September 2020 - June 2021`
 
@@ -47,7 +47,7 @@ Helsinki, Finland
 
 - First year of EIT Digital Master School majoring in Autonomous System
 - GPA: 4.31/5
-- Deep learning, control theory
+- Interested in deep learning, control theory
 
 ### **Huazhong University of Science and Technology (HUST)** `September 2016 - June 2020`
 
@@ -57,7 +57,7 @@ Wuhan, China
 
 - Bachelor student majoring in Electronics
 - GPA: 3.82/4
-- Embedded system, radio frequency
+- Interested in embedded system, radio frequency
 
 ## Experience
 
@@ -67,22 +67,17 @@ Wuhan, China
 Stockholm, Sweden
 ```
 
-- Master thesis: Automatic configuration and fault detection of the network synchronization system
+- Automatic configuration and fault detection of the network synchronization system
 - Use machine learning to find faulty synchronization sources in RAN
 - Visualize network synchronization in RAN domain and transport domain
 
 ## Course Projects
 
 - Fine-tune BERT models for semantic search
+- Hands-on experience in machine learning using Sklearn and Spark and deep learning using Pytorch
 - Deploy image classification models on edge with a partner
+- Practical experience with algorithms including Minimax, HMM, RL
 - Design simple Real-Time Operating Systems by Ada and C
-
-## Skills
-
-- Machine learning: Sklearn, Spark
-- Deep learning: CNN, RNN, Transformer, GNN, Autoencoder, GAN
-- Algorithm: Minimax, HMM, RL
-- Programming language: Python, C
 
 ## Awards
 
