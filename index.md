@@ -25,7 +25,7 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-I am a second-year master student at KTH majoring in Autonomous Systems, and looking for a job in data engineer. I have a good background in machine learning, and am currently working on my master thesis in data science at Ericsson.
+I am a second-year master student at KTH majoring in Autonomous Systems, and looking for a job in data engineering. I have a good background in machine learning, and am currently working on my master thesis in data science at Ericsson.
 
 ## Education
 
@@ -57,7 +57,7 @@ Wuhan, China
 
 - Bachelor student majoring in Electronics
 - GPA: 3.82/4
-- Interested in embedded system, radio frequency
+- Interested in embedded systems, radio frequency
 
 ## Experience
 
@@ -69,7 +69,7 @@ Stockholm, Sweden
 
 - Automatic configuration and fault detection of the network synchronization system
 - Use machine learning to find faulty synchronization sources in RAN
-- Visualize network synchronization in RAN domain and transport domain
+- Visualize network synchronization in the RAN domain and the transport domain
 
 ## Course Projects
 
