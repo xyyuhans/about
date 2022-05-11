@@ -37,7 +37,7 @@ Stockholm, Sweden
 
 - Second year of EIT Digital Master School majoring in Autonomous System
 - Get A grades in computer science courses
-- Interested in machine learning, embedded system
+- Interested in machine learning, embedded systems
   
 ### **Aalto University** `September 2020 - June 2021`
 
