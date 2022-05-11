@@ -25,7 +25,7 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-I am a second-year master student at KTH majoring in Autonomous Systems, and looking for a job in data analysis. I have a good background in machine learning, and am currently working on my master thesis in data science at Ericsson.
+I am a second-year master student at KTH majoring in Autonomous Systems, and looking for a job in data engineer. I have a good background in machine learning, and am currently working on my master thesis about data science at Ericsson.
 
 ## Education
 
@@ -35,8 +35,9 @@ I am a second-year master student at KTH majoring in Autonomous Systems, and loo
 Stockholm, Sweden
 ```
 
-- Second year of EIT Digital Master School majoring in Autonomous System
+- Second year of European Institute of Technology (EIT) Digital Master School majoring in Autonomous System
 - Get A grades in computer science courses
+- Machine learning, embedded system
   
 ### **Aalto University** `September 2020 - June 2021`
 
@@ -46,6 +47,7 @@ Helsinki, Finland
 
 - First year of EIT Digital Master School majoring in Autonomous System
 - GPA: 4.31/5
+- Deep learning, control theory
 
 ### **Huazhong University of Science and Technology (HUST)** `September 2016 - June 2020`
 
@@ -55,6 +57,7 @@ Wuhan, China
 
 - Bachelor student majoring in Electronics
 - GPA: 3.82/4
+- Embedded system, radio frequency
 
 ## Experience
 
@@ -80,6 +83,11 @@ Stockholm, Sweden
 - Deep learning: CNN, RNN, Transformer, GNN, Autoencoder, GAN
 - Algorithm: Minimax, HMM, RL
 - Programming language: Python, C
+
+## Awards
+
+- EIT Digital Master School Scholarship
+- Aalto Dean’s incentive scholarship
 
 <!-- ### Footer
 
