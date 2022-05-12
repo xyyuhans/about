@@ -76,7 +76,7 @@ Stockholm, Sweden
 - Practical experience in algorithms including Minimax, HMM, RL
 - Design simple Real-Time Operating Systems using Ada and C
 - Hands-on experience in machine learning using Sklearn and Spark, and deep learning using Pytorch
-- 
+
 ## Other Skills
 
 - Linux, Bash
