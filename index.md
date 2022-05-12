@@ -73,7 +73,7 @@ Stockholm, Sweden
 
 ## Course Projects
 
-- Practical experience in algorithms including Minimax, HMM, RL
+- Practical experience in algorithms including Minimax, HMM, RL using Python
 - Design simple Real-Time Operating Systems using Ada and C
 - Hands-on experience in machine learning using Sklearn and Spark, and deep learning using Pytorch
 
