@@ -25,7 +25,7 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-I am a second-year master student at KTH majoring in Autonomous Systems, and looking for a job in data engineering. I have a good background in machine learning, and am currently working on my master thesis in data science at Ericsson.
+I am a second-year master student at KTH majoring in Autonomous Systems, and looking for a job in software development. I have hands-on experience in Python and C, and am currently working on my master thesis in data science at Ericsson.
 
 ## Education
 
@@ -73,11 +73,14 @@ Stockholm, Sweden
 
 ## Course Projects
 
-- Fine-tune BERT models for semantic search
-- Hands-on experience in machine learning using Sklearn and Spark, and deep learning using Pytorch
-- Deploy image classification models on edge with a partner
 - Practical experience in algorithms including Minimax, HMM, RL
 - Design simple Real-Time Operating Systems using Ada and C
+- Hands-on experience in machine learning using Sklearn and Spark, and deep learning using Pytorch
+- 
+## Other Skills
+
+- Linux, Bash
+- Git
 
 ## Awards
 
