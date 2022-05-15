@@ -69,7 +69,7 @@ Stockholm, Sweden
 
 - Work on configuration and fault detection of the network synchronization system
 - Use machine learning to find faulty synchronization sources in RAN
-- Visualize network synchronization in the RAN domain and the transport domain
+- Visualize network synchronization in the RAN and transport domains
 
 ## Course Projects
 
