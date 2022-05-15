@@ -67,7 +67,7 @@ Wuhan, China
 Stockholm, Sweden
 ```
 
-- Automatic configuration and fault detection of the network synchronization system
+- Work on configuration and fault detection of the network synchronization system
 - Use machine learning to find faulty synchronization sources in RAN
 - Visualize network synchronization in the RAN domain and the transport domain
 
