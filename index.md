@@ -25,7 +25,7 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-I am a second-year master student at KTH majoring in Autonomous Systems, and looking for a job in software development. I have hands-on experience in Python, machine learning, and docker, and am currently working on my master thesis in data science at Ericsson.
+I am a second-year master student at KTH majoring in Autonomous Systems, and looking for a job in software development. I have hands-on experience in Python and machine learning, and am currently working on my master thesis in data science at Ericsson.
 
 ## Education
 
