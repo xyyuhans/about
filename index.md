@@ -25,11 +25,11 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-I am a second-year master student at KTH majoring in Autonomous Systems, and looking for a job in software development. I have hands-on experience in Python and C, and am currently working on my master thesis in data science at Ericsson.
+I am a second-year master student at KTH majoring in Autonomous Systems, and looking for a job in software development. I have hands-on experience in Python, machine learning and docker, and am currently working on my master thesis in data science at Ericsson.
 
 ## Education
 
-### **KTH Royal Institute of Technology** `September 2021 - June 2022`
+### **KTH Royal Institute of Technology** `September 2021 - Now`
 
 ```
 Stockholm, Sweden
@@ -73,14 +73,9 @@ Stockholm, Sweden
 
 ## Course Projects
 
+- Hands-on experience in machine learning using Sklearn and Spark, and deep learning using Pytorch
 - Practical experience in algorithms including Minimax, HMM, RL using Python
 - Design simple Real-Time Operating Systems using Ada and C
-- Hands-on experience in machine learning using Sklearn and Spark, and deep learning using Pytorch
-
-## Other Skills
-
-- Linux, Bash
-- Git
 
 ## Awards
 
