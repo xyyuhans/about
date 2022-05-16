@@ -73,9 +73,10 @@ Stockholm, Sweden
 
 ## Course Projects
 
-- Hands-on experience in machine learning using Sklearn and Spark, and deep learning using Pytorch
+- Designed simple real-time operating systems using Ada and C
+- Completed my bachelor degree project about medical infusion monitoring system based on STM32
 - Practical experience in algorithms including Minimax, HMM, and RL using Python
-- Design simple Real-Time Operating Systems using Ada and C
+- Hands-on experience in machine learning using Sklearn and Spark, and deep learning using Pytorch
 
 ## Awards
 
