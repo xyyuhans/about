@@ -25,7 +25,7 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-I am a second-year master student at KTH majoring in Autonomous Systems, and looking for a job in software development. I have hands-on experience in Python and machine learning, and am currently working on my master thesis in data science at Ericsson.
+I am a second-year master student at KTH majoring in Autonomous Systems, and looking for a job in embedded software development. I have hands-on experience in embedded systems using C and Assembly, and am currently working on my master thesis in data science using Python at Ericsson.
 
 ## Education
 
@@ -61,22 +61,36 @@ Wuhan, China
 
 ## Experience
 
-### **Master Thesis at Ericsson** `January 2022 - Now`
+### **Master Thesis** `January 2022 - Now`
 
 ```
-Stockholm, Sweden
+Ericsson, Stockholm
 ```
 
 - Work on configuration and fault detection of the network synchronization system
 - Use machine learning to find faulty synchronization sources in RAN
 - Visualize network synchronization in the RAN and transport domains
 
+### **Undergraduate Degree Project** `January 2020 - May 2020`
+
+```
+HUST, Wuhan
+```
+
+- Designed simple medical infusion monitoring system based on STM32
+- Used infrared sensor to monitor the infusion speed and status
+- Wrote C scripts to display infusion speed
+
 ## Course Projects
 
 - Designed simple real-time operating systems using Ada and C
-- Completed my bachelor degree project about medical infusion monitoring system based on STM32
 - Practical experience in algorithms including Minimax, HMM, and RL using Python
 - Hands-on experience in machine learning using Sklearn and Spark, and deep learning using Pytorch
+
+## Skills
+
+- Linux
+- Git
 
 ## Awards
 
