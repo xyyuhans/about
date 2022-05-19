@@ -86,8 +86,8 @@ Ericsson, Stockholm
 ## Awards
 
 - EIT Digital Master School Scholarship
-- Aalto Dean’s incentive scholarship
+
 
 <!-- ### Footer
-
+- Aalto Dean’s incentive scholarship
 Last updated: May 2013 -->
