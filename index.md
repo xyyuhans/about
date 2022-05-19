@@ -74,7 +74,7 @@ Ericsson, Stockholm
 ## Course Projects
 
 - Designed simple real-time operating systems using Ada and C
-- Completed my undergraduate degree project about simple medical infusion monitoring system based on STM32
+- Completed my undergraduate degree project about designing a simple medical infusion monitoring system based on STM32
 - Practical experience in algorithms including Minimax, HMM, and RL using Python
 - Hands-on experience in machine learning using Sklearn and Spark, and deep learning using Pytorch
 
