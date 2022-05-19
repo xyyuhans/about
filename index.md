@@ -71,19 +71,10 @@ Ericsson, Stockholm
 - Use machine learning to find faulty synchronization sources in RAN
 - Visualize network synchronization in the RAN and transport domains
 
-### **Undergraduate Degree Project** `January 2020 - May 2020`
-
-```
-HUST, Wuhan
-```
-
-- Designed simple medical infusion monitoring system based on STM32
-- Used infrared sensor to monitor the infusion speed and status
-- Wrote C scripts to display infusion speed
-
 ## Course Projects
 
 - Designed simple real-time operating systems using Ada and C
+- Completed undergraduate degree project about simple medical infusion monitoring system based on STM32
 - Practical experience in algorithms including Minimax, HMM, and RL using Python
 - Hands-on experience in machine learning using Sklearn and Spark, and deep learning using Pytorch
 
