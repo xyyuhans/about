@@ -55,7 +55,7 @@ Helsinki, Finland
 Wuhan, China
 ```
 
-- Bachelor student majoring in Electronics
+- Undergraduate student majoring in Electronics
 - GPA: 3.82/4
 - Interested in embedded systems, radio frequency
 
