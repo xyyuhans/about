@@ -25,7 +25,7 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-I am a second-year master student at KTH majoring in Autonomous Systems, and looking for a job in embedded software development. I have hands-on experience in embedded systems using C and Assembly, and am currently working on my master thesis in data science using Python at Ericsson.
+I am a second-year master student at KTH majoring in Autonomous Systems, and looking for a job in software development. I have hands-on experience in embedded systems using C and Assembly, and am currently working on my master thesis in data science using Python at Ericsson.
 
 ## Education
 
@@ -37,7 +37,7 @@ Stockholm, Sweden
 
 - Second year of EIT Digital Master School majoring in Autonomous System
 - Get A grades in computer science courses
-- Interested in machine learning, embedded systems
+- Interested in machine learning
   
 ### **Aalto University** `September 2020 - June 2021`
 
@@ -47,7 +47,7 @@ Helsinki, Finland
 
 - First year of EIT Digital Master School majoring in Autonomous System
 - GPA: 4.31/5
-- Interested in deep learning, control theory
+- Interested in deep learning
 
 ### **Huazhong University of Science and Technology (HUST)** `September 2016 - June 2020`
 
@@ -57,11 +57,11 @@ Wuhan, China
 
 - Undergraduate student majoring in Electronics
 - GPA: 3.82/4
-- Interested in embedded systems, radio frequency
+- Interested in radio frequency
 
 ## Experience
 
-### **Master Thesis** `January 2022 - Now`
+### **Master Thesis** `January 2022 - June 2022`
 
 ```
 Ericsson, Stockholm
@@ -73,20 +73,14 @@ Ericsson, Stockholm
 
 ## Course Projects
 
+- Hands-on experience in machine learning using Sklearn and Spark, and deep learning using Pytorch
+- Practical experience in algorithms including Minimax, HMM, and RL using Python
 - Designed simple real-time operating systems using Ada and C
 - Designed a simple medical infusion monitoring system based on STM32
-- Practical experience in algorithms including Minimax, HMM, and RL using Python
-- Hands-on experience in machine learning using Sklearn and Spark, and deep learning using Pytorch
-
-## Skills
-
-- Linux
-- Git
 
 ## Awards
 
 - EIT Digital Master School Scholarship
-
 
 <!-- ### Footer
 - Aalto Dean’s incentive scholarship
