@@ -25,7 +25,15 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-I am a second-year master student at KTH majoring in Autonomous Systems, and looking for a job in software development. I have hands-on experience in embedded systems using C and Assembly, and am currently working on my master thesis in data science using Python at Ericsson.
+I have hands-on experience in embedded systems using C and Assembly, and am currently working on my master thesis in data science using Python at Ericsson.
+
+Both at work and university, I have been appreciated and acknowledged for the fact that I always asked for more information and details on the topics that really interested me. Having a curious nature, I was never satisfied with being average or knowing only the basics, so thanks to this I have always been able to develop and gain knowledge quite fast.
+
+Another valuable thing that made me be cherished among my colleagues was my desire, openness, and pleasure to help others. Every time when my schedules allow me to, I try to help my friends and co-workers with anything that I can, thing that helped me develop not only my teaching and technical skills, but also my soft skills.
+
+Of course that besides my technical passions, I also have different hobbies that help me get relaxed after an intense working or studying day. Playing the guitar and kalimba, watching TV series and documentaries, and having relaxing evening walks are the ones on which I spend most of my spare time. Even though these hobbies may not be extraordinary or unique, they clear and calm my mind and body, making me always prepared for the challenges of tomorrow.
+
+I'm a master thesis student at Ericsson in the network synchronization team. 
 
 ## Education
 
